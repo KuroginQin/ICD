@@ -8,6 +8,16 @@ Many network applications can be formulated as NP-hard combinatorial optimizatio
 ### Citing
 If you find this project useful for your research, please cite the following paper.
 
+```
+@article{qin2023towards,
+  title={Towards a better trade-off between quality and efficiency of community detection: An inductive embedding method across graphs},
+  author={Qin, Meng and Zhang, Chaorui and Bai, Bo and Zhang, Gong and Yeung, Dit-Yan},
+  journal={ACM Transactions on Knowledge Discovery from Data (TKDD)},
+  year={2023},
+  publisher={ACM New York, NY}
+}
+```
+
 If you have questions, you can contact the author via [mengqin_az@foxmail.com].
 
 ### Requirements
