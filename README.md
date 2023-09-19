@@ -13,6 +13,9 @@ If you find this project useful for your research, please cite the following pap
   title={Towards a better trade-off between quality and efficiency of community detection: An inductive embedding method across graphs},
   author={Qin, Meng and Zhang, Chaorui and Bai, Bo and Zhang, Gong and Yeung, Dit-Yan},
   journal={ACM Transactions on Knowledge Discovery from Data (TKDD)},
+  volume={17},
+  number={9},
+  pages={127-161},
   year={2023},
   publisher={ACM New York, NY}
 }
